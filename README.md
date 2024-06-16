@@ -1,3 +1,5 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### Hi there 👋
 
 ```yaml
@@ -13,6 +15,9 @@ hobbies: ["MTB", "Coding", "Learning new things"]
 ## Languages and Tools
 
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,git,css,html,js,react,tailwind,typescript,nodejs,python,cpp,java,arduino,c"> </a> </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
 **Ricardo0919/Ricardo0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
