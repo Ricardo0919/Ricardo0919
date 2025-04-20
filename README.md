@@ -7,7 +7,7 @@
 name: Ricardo Sierra Roa. 
 located_in: Querétaro, MX. 
 
-education: Enrolled in Computer Science with Electronics engineering
+education: Enrolled in B.S. in Robotics and Digital Systems Engineering
 fields_of_interests: ["Machine Learning","Robotics", "IoT",
                       "Embedded Systems", "Software Development" "etc."]
 hobbies: ["MTB", "Coding", "Learning new things"]
