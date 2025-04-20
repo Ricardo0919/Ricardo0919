@@ -14,7 +14,7 @@ hobbies: ["MTB", "Coding", "Learning new things"]
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,git,css,html,js,react,tailwind,typescript,nodejs,python,cpp,java,arduino,c"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=github,git,css,html,js,webstorm,react,tailwind,typescript,nodejs,nextjs,docker,linux,ubuntu,vscode,python,cpp,java,arduino,c,visualstudio,cs,net,wordpress"> </a> </p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
